@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x7a2e8b591F05aEe8642747071EfbC663f9d47d7d",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x7a2e8b591f05aee8642747071efbc663f9d47d7d",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "weirdBeaver NFT",
+  "SYMBOL": "WBNFT",
+  "MAX_SUPPLY": 9999,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "",
+  "MARKETPLACE_LINK": "",
+  "SHOW_BACKGROUND": true
+}
